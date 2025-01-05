@@ -232,7 +232,7 @@ class BMDrawer extends StatelessWidget {
               Navigator.pop(context);
               //share the playstore url of the app with a text
               Share.share(
-                  'Badge Magic is an Android app to control LED name badges. This app provides features to portray names, graphics and simple animations on LED badges.You can also download it from below link https://play.google.com/store/apps/details?id=org.fossasia.badgemagic ');
+                  'Badge Magic is an app to control LED name badges. This app provides features to portray names, graphics and simple animations on LED badges.You can also download it from below link https://play.google.com/store/apps/details?id=org.fossasia.badgemagic');
             },
           ),
           ListTile(
